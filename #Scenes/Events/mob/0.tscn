@@ -1,4 +1,4 @@
-[gd_scene load_steps=16 format=3 uid="uid://sg1wi7uqvv25"]
+[gd_scene load_steps=17 format=3 uid="uid://sg1wi7uqvv25"]
 
 [ext_resource type="Script" path="res://#Scenes/SceneScripts/TestingScene.gd" id="1_nmgwp"]
 [ext_resource type="PackedScene" uid="uid://bcpmrmofcilbn" path="res://Core/Battler.tscn" id="2_e6pjn"]
@@ -15,6 +15,7 @@
 [ext_resource type="PackedScene" uid="uid://bam77cwf4emyr" path="res://#Scenes/TopBarOverlay.tscn" id="14_os5i4"]
 [ext_resource type="Texture2D" uid="uid://by65g3tjujc72" path="res://Art/Background/1-1.png" id="15_5h66l"]
 [ext_resource type="PackedScene" uid="uid://ruwidm3egyrx" path="res://#Scenes/xp_bar.tscn" id="15_r7cr8"]
+[ext_resource type="PackedScene" uid="uid://dh583hxxwxpaq" path="res://#Scenes/sapling_message.tscn" id="16_ipuej"]
 
 [node name="TestingScene" type="Node2D"]
 script = ExtResource("1_nmgwp")
@@ -191,6 +192,8 @@ offset_left = 1794.0
 offset_top = 175.0
 offset_right = -51.0
 offset_bottom = -224.0
+
+[node name="Message_scene" parent="CanvasLayer" instance=ExtResource("16_ipuej")]
 
 [connection signal="pressed" from="CanvasLayer/UIControl/EndTurnButton" to="CanvasLayer/UIControl/EndTurnButton" method="_on_pressed"]
 [connection signal="pressed" from="CanvasLayer/UIControl/back_to_main_menu" to="CanvasLayer/UIControl" method="_on_back_to_main_menu_pressed"]

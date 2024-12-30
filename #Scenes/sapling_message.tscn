@@ -1,0 +1,36 @@
+[gd_scene load_steps=2 format=3 uid="uid://dh583hxxwxpaq"]
+
+[ext_resource type="Texture2D" uid="uid://dq8xrca05abuq" path="res://Art/NPC/rescued_saplings_milf-static.png" id="1_vwr4j"]
+
+[node name="Message_scene" type="Control"]
+layout_mode = 3
+anchors_preset = 1
+anchor_left = 1.0
+anchor_right = 1.0
+offset_left = -1231.0
+offset_top = 171.0
+offset_right = -111.0
+offset_bottom = 854.0
+grow_horizontal = 0
+
+[node name="Sapling" type="TextureRect" parent="."]
+layout_mode = 1
+anchors_preset = 7
+anchor_left = 0.5
+anchor_top = 1.0
+anchor_right = 0.5
+anchor_bottom = 1.0
+offset_left = -210.0
+offset_top = -384.0
+offset_right = 210.0
+grow_horizontal = 2
+grow_vertical = 0
+texture = ExtResource("1_vwr4j")
+expand_mode = 1
+
+[node name="Message_and_name" type="Label" parent="."]
+layout_mode = 1
+anchors_preset = 10
+anchor_right = 1.0
+offset_bottom = 283.0
+grow_horizontal = 2

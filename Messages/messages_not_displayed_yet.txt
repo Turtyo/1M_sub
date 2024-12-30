@@ -1,0 +1,10 @@
+"Wilderbump7": [Old, "Thank you for rescuing me, I'll go back to the meadow now."]
+"Cleareye": [Emo, "Whatever, Fauna. I didn't need saving... but thanks, I guess. If you have any plant food, not that it matters, I wouldn't refuse it or anything."]
+"CuteNepgear": [Maid, "Thank you for rescuing me Fauna! Would you like refreshment? A bubble bath? Or me? Oh don't worry about it, it isn't scandalous at all~"]
+"Trinova": [Nerd, "Just my luck. I only popped out for a matcha latte and I get jumped by some wierdos! Guess I'll just dust off my whisk and make my own. Would you like a cup?""
+"Journey": [Sleepy, "*yawn* Oh, hey Fauna. Wait, where am I? I didn't fall asleep here... was I abducted in my sleep? Well, thanks for saving me. Now if you'll excuse me, I have important matters to attend to... *snore*"]
+"ProtonToad": [MILF, "AAAHH! Stay back! I didn’t do it, I pro- …Oh. Fauna, it’s you! Goodness, am I glad to see you! Thanks for the save, I was… almost scared! Take care going up!"]
+"shadowedReaper": [Cool, "Thank you for rescuing me Fauna! Had you taken any longer I might've had to get my leaves dirty!"]
+"Percy": [MILF, "Thank goodness you're here! I can feel a dark aura that's been watching me for ages now... I think it wants the hat."]
+"Sleepy Sensei": [Sleepy, "Uuuuuu..... Thanks for saving me! They promised me a dirt nap, but I don't think we were thinking the same thing."]
+"minik": [Emo, "Ugh....Can't I just fight these enemies alone? I may be wounded, but I don't need any of your disgusting back seating....not that my katana broke or anything ;-;"]
